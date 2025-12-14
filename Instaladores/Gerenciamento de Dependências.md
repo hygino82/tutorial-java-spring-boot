@@ -40,5 +40,6 @@
 
 - **Teste a instalação**
 
-- No terminal, execute `gradle -v` para confirmar a versão
+- No terminal, execute `gradle -v` para confirmar a versão. 
+
 Ambas podem ser instaladas via [[SDKMAN ]]
