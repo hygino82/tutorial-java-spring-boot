@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06b63d2f4cd86591",
+        "id": "26719d2617795bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fc70f8071c521a",
+            "id": "3ebfe75e878c06f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e4fc70f8071c521a",
+  "active": "ad7304cb70950024",
   "lastOpenFiles": [
+    "Marcações.base",
+    "XSD.md",
+    "Sem título.md",
+    "Spring Boot 4.md",
+    "XML.md",
+    "Jakarta EE",
     "dependências externas/MapStruct.md",
     "dependências externas/ModelMapper.md",
     "Instaladores/Java FX.md",
@@ -188,7 +194,6 @@
     "Instaladores/Editores.md",
     "Instaladores/Java.md",
     "Instaladores/SDKMAN.md",
-    "Spring Boot 4.md",
     "Instaladores/Ferramentas para testar requisições da API.md",
     "Física.md",
     "dependências externas",
